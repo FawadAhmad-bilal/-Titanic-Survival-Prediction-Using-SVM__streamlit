@@ -7,7 +7,8 @@
 
 > An interactive machine learning web application that predicts passenger survival on the Titanic using Support Vector Classification (SVC).
 
----
+## 🖥️ Live Demo
+https://jpuccn64vd2nk6upg8jt3q.streamlit.app
 
 ## 📋 Table of Contents
 - [Overview](#-overview)
