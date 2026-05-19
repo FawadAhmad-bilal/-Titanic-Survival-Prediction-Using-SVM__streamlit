@@ -246,7 +246,5 @@ Department of Information Technology
 <div align="center">
 
 ### ⭐ If you found this project helpful, please give it a star!
-
 Made with ❤️ by Fawad
-
 </div>
