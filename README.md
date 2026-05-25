@@ -240,9 +240,7 @@ Department of Information Technology
 - Scikit-learn documentation and community
 - Streamlit for the amazing framework
 - All contributors and supporters
-
 ---
-
 <div align="center">
 
 ### ⭐ If you found this project helpful, please give it a star!
